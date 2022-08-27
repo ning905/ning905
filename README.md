@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ning. Welcome to my GitHub!</h1>
 <h3 align="center">A passionate full-stack developer based in UK</h3>
 
-- 🌱 I’m currently learning **full-stack development**
+- 🌱 I’m currently in a 6-month **full-stack development** training bootcamp
 
-- 👨‍💻 I’m looking forward to learn **Python**
+- 🔍 Looking for roles as a **Junior Developer**
+
+- 👨‍💻 I’m looking forward to learn **Python** after the course
+
+- 🎓 MA Translation and Interpreting Studies
+
+- 💡 BA(Hons) East Asian Studies & Linguistics
 
 - 📫 How to reach me **ningma905@gmail.com**
 
-- ⚡ Fun fact **I have two adorable cats**
+- 🐈‍⬛ **I have two adorable cats**
 
 
 
