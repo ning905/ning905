@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ning. Welcome to my GitHub!</h1>
-<h3 align="center">A passionate full-stack developer based in UK</h3>
+<h1 align="left">Hi 👋, I'm Ning. Welcome to my GitHub!</h1>
+<h3 align="left">A passionate full-stack developer based in UK</h3>
 
 - 🌱 I’m currently in a 6-month **full-stack development** training bootcamp
 
