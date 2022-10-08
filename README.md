@@ -11,6 +11,8 @@
 
 - 💡 BA(Hons) East Asian Studies & Linguistics
 
+- 💬 I can speak English, Mandarin Chinese and Italian
+
 - 📫 How to reach me **ningma905@gmail.com**
 
 - 🐈‍⬛ **I have two adorable cats**
