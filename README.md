@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Ning. Welcome to my GitHub!</h1>
 <h3 align="left">A passionate full-stack developer based in UK</h3>
 
-- 🌱 I’m currently in a 6-month **full-stack development** training bootcamp
+- 🌱 I just graduated from a 6-month **full-stack development** training bootcamp
 
 - 🔍 Looking for roles as a **Junior Developer**
 
-- 👨‍💻 I’m looking forward to learn **Python** after the course
+- 👨‍💻 I’m looking forward to learn **Python** in the future
 
 - 🎓 MA Translation and Interpreting Studies
 
