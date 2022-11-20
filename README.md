@@ -5,7 +5,7 @@
 
 - 🔍 Looking for roles as a **Junior Developer**
 
-- 👨‍💻 I’m looking forward to learn **Python** in the future
+- 👨‍💻 I’m looking forward to learn **Java** in the future
 
 - 🎓 MA Translation and Interpreting Studies
 
